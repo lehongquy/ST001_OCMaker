@@ -25,21 +25,21 @@
       "position": "1",
       "parts": "4-4",
       "colorArray": "",
-      "quantity": "22",
+      "quantity": "11",
       "level": "1"
     },
     {
       "position": "1",
       "parts": "5-5",
       "colorArray": "",
-      "quantity": "22",
+      "quantity": "11",
       "level": "1"
     },
     {
       "position": "1",
       "parts": "6-6",
       "colorArray": "",
-      "quantity": "22",
+      "quantity": "11",
       "level": "1"
     }
   ],
@@ -49,238 +49,238 @@
       "parts": "1-1",
       "colorArray": "FFFFFF",
       "quantity": "20",
-      "level": "1"
+      "level": "2"
     },
     {
       "position": "2",
       "parts": "2-2",
       "colorArray": "FFFFFF",
       "quantity": "51",
-      "level": "1"
+      "level": "2"
     },
     {
       "position": "2",
       "parts": "3-3",
       "colorArray": "FFFFFF",
       "quantity": "2",
-      "level": "1"
+      "level": "2"
     },
     {
       "position": "2",
       "parts": "4-6",
       "colorArray": "000000,0B0BAF,65FCFF,999999,C900FF,FF9900",
       "quantity": "19",
-      "level": "1"
+      "level": "2"
     },
     {
       "position": "2",
       "parts": "5-5",
       "colorArray": "000000,0B0BAF,65FCFF,999999,C900FF,FF9900",
       "quantity": "19",
-      "level": "1"
+      "level": "2"
     },
     {
       "position": "2",
       "parts": "6-19",
       "colorArray": "000000,444444,666666,999999,CBCBCB,D8D8D8,F3F3F3,FFFFFF",
       "quantity": "10",
-      "level": "1"
+      "level": "2"
     },
     {
       "position": "2",
       "parts": "7-20",
       "colorArray": "000000,444444,666666,999999,CBCBCB,D8D8D8,F3F3F3,FFFFFF",
       "quantity": "10",
-      "level": "1"
+      "level": "2"
     },
     {
       "position": "2",
       "parts": "8-21",
       "colorArray": "000000,444444,666666,999999,CBCBCB,D8D8D8,F3F3F3,FFFFFF",
       "quantity": "10",
-      "level": "1"
+      "level": "2"
     },
     {
       "position": "2",
       "parts": "9-12",
       "colorArray": "000000,65403A,FCE5CD,FFFFFF",
       "quantity": "14",
-      "level": "1"
+      "level": "2"
     },
     {
       "position": "2",
       "parts": "10-14",
       "colorArray": "000000,65403A,FCE5CD,FFFFFF",
       "quantity": "14",
-      "level": "1"
+      "level": "2"
     },
     {
       "position": "2",
       "parts": "11-25",
       "colorArray": "000000,FFFFFF",
       "quantity": "47",
-      "level": "1"
+      "level": "2"
     },
     {
       "position": "2",
       "parts": "12-26",
       "colorArray": "000000,FFFFFF",
       "quantity": "45",
-      "level": "1"
+      "level": "2"
     },
     {
       "position": "2",
       "parts": "13-27",
       "colorArray": "000000,FFFFFF",
       "quantity": "41",
-      "level": "1"
+      "level": "2"
     },
     {
       "position": "2",
       "parts": "14-11",
       "colorArray": "000000,65403A,FCE5CD,FFFFFF",
       "quantity": "14",
-      "level": "1"
+      "level": "2"
     },
     {
       "position": "2",
       "parts": "15-13",
       "colorArray": "000000,65403A,FCE5CD,FFFFFF",
       "quantity": "14",
-      "level": "1"
+      "level": "2"
     },
     {
       "position": "2",
       "parts": "16-15",
       "colorArray": "000000,999999,EEEEEE,FFFFFF",
       "quantity": "12",
-      "level": "1"
+      "level": "2"
     },
     {
       "position": "2",
       "parts": "17-8",
       "colorArray": "000000,65403A,FCE5CD,FFFFFF",
       "quantity": "26",
-      "level": "1"
+      "level": "2"
     },
     {
       "position": "2",
       "parts": "18-7",
       "colorArray": "000000,0000FF,00FF00,00FFFF,9900FF,999999,FF0000,FF9FCE,FF9900,FFFF00,FFFFFF",
       "quantity": "4",
-      "level": "1"
+      "level": "2"
     },
     {
       "position": "2",
       "parts": "19-9",
       "colorArray": "000000,65403A,FCE5CD,FFFFFF",
       "quantity": "26",
-      "level": "1"
+      "level": "2"
     },
     {
       "position": "2",
       "parts": "20-24",
       "colorArray": "",
-      "quantity": "2",
-      "level": "1"
+      "quantity": "1",
+      "level": "2"
     },
     {
       "position": "2",
       "parts": "21-10",
       "colorArray": "000000,65403A,FCE5CD,FFFFFF",
       "quantity": "26",
-      "level": "1"
+      "level": "2"
     },
     {
       "position": "2",
       "parts": "22-18",
       "colorArray": "00FF0C,9BE5FF,26FFE3,35EA3A,9700FF,B654DC,C267FF,DF34E2,FF0000,FF70FB,FF934C,FFCC67,FFFF00",
       "quantity": "2",
-      "level": "1"
+      "level": "2"
     },
     {
       "position": "2",
       "parts": "23-16",
       "colorArray": "000000,65403A,FCE5CD,FFFFFF",
       "quantity": "5",
-      "level": "1"
+      "level": "2"
     },
     {
       "position": "2",
       "parts": "24-17",
       "colorArray": "000000,65403A,FCE5CD,FFFFFF",
       "quantity": "5",
-      "level": "1"
+      "level": "2"
     },
     {
       "position": "2",
       "parts": "25-28",
       "colorArray": "000000,666666,CCCCCC,FFFFFF",
       "quantity": "11",
-      "level": "1"
+      "level": "2"
     },
     {
       "position": "2",
       "parts": "26-29",
       "colorArray": "000000,666666,CCCCCC,FFFFFF",
       "quantity": "11",
-      "level": "1"
+      "level": "2"
     },
     {
       "position": "2",
       "parts": "27-30",
       "colorArray": "000000,FFFFFF",
       "quantity": "5",
-      "level": "1"
+      "level": "2"
     },
     {
       "position": "2",
       "parts": "28-31",
       "colorArray": "E06666,FFFFFF",
       "quantity": "6",
-      "level": "1"
+      "level": "2"
     },
     {
       "position": "2",
       "parts": "29-32",
       "colorArray": "E06666,FFFFFF",
       "quantity": "6",
-      "level": "1"
+      "level": "2"
     },
     {
       "position": "2",
       "parts": "30-33",
       "colorArray": "E06666,FFFFFF",
       "quantity": "6",
-      "level": "1"
+      "level": "2"
     },
     {
       "position": "2",
       "parts": "31-22",
       "colorArray": "000000,666666,999999,CCCCCC,FFFFFF",
       "quantity": "24",
-      "level": "1"
+      "level": "2"
     },
     {
       "position": "2",
       "parts": "32-23",
       "colorArray": "000000,666666,999999,CCCCCC,FFFFFF",
       "quantity": "24",
-      "level": "1"
+      "level": "2"
     },
     {
       "position": "2",
       "parts": "33-4",
       "colorArray": "00FF00,00FFFF,FF0000,FF00FF,FF9900,FFFF00",
       "quantity": "1",
-      "level": "1"
+      "level": "2"
     },
     {
       "position": "2",
       "parts": "34-34",
       "colorArray": "",
-      "quantity": "10",
-      "level": "1"
+      "quantity": "5",
+      "level": "2"
     }
   ]
 }

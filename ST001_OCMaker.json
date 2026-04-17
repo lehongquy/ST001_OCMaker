@@ -2,212 +2,484 @@
   "data1": [
     {
       "position": "data1",
-      "parts": "1-30",
-      "colorArray": "",
-      "quantity": "46",
+      "parts": "1-1",
+      "colorArray": "5E5E5E,030303,FFFFFF",
+      "quantity": "18",
       "level": "1"
     },
     {
       "position": "data1",
-      "parts": "10-11",
-      "colorArray": "",
-      "quantity": "28",
+      "parts": "2-2",
+      "colorArray": "000000,FFFFFF",
+      "quantity": "16",
       "level": "1"
     },
     {
       "position": "data1",
-      "parts": "11-21",
-      "colorArray": "",
-      "quantity": "126",
-      "level": "1"
-    },
-    {
-      "position": "data1",
-      "parts": "12-22",
-      "colorArray": "",
-      "quantity": "128",
-      "level": "1"
-    },
-    {
-      "position": "data1",
-      "parts": "13-23",
-      "colorArray": "",
-      "quantity": "126",
-      "level": "1"
-    },
-    {
-      "position": "data1",
-      "parts": "14-24",
-      "colorArray": "",
-      "quantity": "126",
-      "level": "1"
-    },
-    {
-      "position": "data1",
-      "parts": "15-27",
-      "colorArray": "",
-      "quantity": "304",
-      "level": "1"
-    },
-    {
-      "position": "data1",
-      "parts": "16-28",
-      "colorArray": "",
-      "quantity": "302",
-      "level": "1"
-    },
-    {
-      "position": "data1",
-      "parts": "17-29",
-      "colorArray": "",
-      "quantity": "304",
-      "level": "1"
-    },
-    {
-      "position": "data1",
-      "parts": "18-5",
-      "colorArray": "",
-      "quantity": "114",
-      "level": "1"
-    },
-    {
-      "position": "data1",
-      "parts": "19-4",
-      "colorArray": "",
-      "quantity": "112",
-      "level": "1"
-    },
-    {
-      "position": "data1",
-      "parts": "2-1",
-      "colorArray": "",
-      "quantity": "82",
-      "level": "1"
-    },
-    {
-      "position": "data1",
-      "parts": "20-18",
-      "colorArray": "",
-      "quantity": "34",
-      "level": "1"
-    },
-    {
-      "position": "data1",
-      "parts": "21-19",
-      "colorArray": "",
-      "quantity": "34",
-      "level": "1"
-    },
-    {
-      "position": "data1",
-      "parts": "22-12",
-      "colorArray": "",
-      "quantity": "36",
-      "level": "1"
-    },
-    {
-      "position": "data1",
-      "parts": "23-14",
-      "colorArray": "",
-      "quantity": "114",
-      "level": "1"
-    },
-    {
-      "position": "data1",
-      "parts": "24-15",
-      "colorArray": "",
-      "quantity": "112",
-      "level": "1"
-    },
-    {
-      "position": "data1",
-      "parts": "25-16",
-      "colorArray": "",
-      "quantity": "112",
-      "level": "1"
-    },
-    {
-      "position": "data1",
-      "parts": "26-13",
-      "colorArray": "",
-      "quantity": "22",
-      "level": "1"
-    },
-    {
-      "position": "data1",
-      "parts": "27-25",
-      "colorArray": "",
+      "parts": "3-3",
+      "colorArray": "000000,979797,FFFFFF",
       "quantity": "12",
       "level": "1"
     },
     {
       "position": "data1",
-      "parts": "28-20",
+      "parts": "4-4",
       "colorArray": "",
-      "quantity": "28",
+      "quantity": "11",
       "level": "1"
     },
     {
       "position": "data1",
-      "parts": "29-26",
+      "parts": "5-5",
       "colorArray": "",
-      "quantity": "28",
+      "quantity": "11",
       "level": "1"
     },
     {
       "position": "data1",
-      "parts": "3-6",
+      "parts": "6-6",
       "colorArray": "",
-      "quantity": "70",
+      "quantity": "11",
+      "level": "1"
+    }
+  ],
+  "data2": [
+    {
+      "position": "data2",
+      "parts": "1-1",
+      "colorArray": "FFFFFF",
+      "quantity": "20",
       "level": "1"
     },
     {
-      "position": "data1",
-      "parts": "30-17",
-      "colorArray": "",
-      "quantity": "108",
+      "position": "data2",
+      "parts": "2-2",
+      "colorArray": "FFFFFF",
+      "quantity": "51",
       "level": "1"
     },
     {
-      "position": "data1",
-      "parts": "4-2",
-      "colorArray": "",
-      "quantity": "104",
+      "position": "data2",
+      "parts": "3-3",
+      "colorArray": "FFFFFF",
+      "quantity": "2",
       "level": "1"
     },
     {
-      "position": "data1",
-      "parts": "5-10",
-      "colorArray": "",
-      "quantity": "156",
+      "position": "data2",
+      "parts": "4-6",
+      "colorArray": "000000,0B0BAF,65FCFF,999999,C900FF,FF9900",
+      "quantity": "19",
       "level": "1"
     },
     {
-      "position": "data1",
-      "parts": "6-7",
-      "colorArray": "",
-      "quantity": "70",
+      "position": "data2",
+      "parts": "5-5",
+      "colorArray": "000000,0B0BAF,65FCFF,999999,C900FF,FF9900",
+      "quantity": "19",
       "level": "1"
     },
     {
-      "position": "data1",
+      "position": "data2",
+      "parts": "6-19",
+      "colorArray": "000000,444444,666666,999999,CBCBCB,D8D8D8,F3F3F3,FFFFFF",
+      "quantity": "10",
+      "level": "1"
+    },
+    {
+      "position": "data2",
+      "parts": "7-20",
+      "colorArray": "000000,444444,666666,999999,CBCBCB,D8D8D8,F3F3F3,FFFFFF",
+      "quantity": "10",
+      "level": "1"
+    },
+    {
+      "position": "data2",
+      "parts": "8-21",
+      "colorArray": "000000,444444,666666,999999,CBCBCB,D8D8D8,F3F3F3,FFFFFF",
+      "quantity": "10",
+      "level": "1"
+    },
+    {
+      "position": "data2",
+      "parts": "9-12",
+      "colorArray": "000000,65403A,FCE5CD,FFFFFF",
+      "quantity": "14",
+      "level": "1"
+    },
+    {
+      "position": "data2",
+      "parts": "10-14",
+      "colorArray": "000000,65403A,FCE5CD,FFFFFF",
+      "quantity": "14",
+      "level": "1"
+    },
+    {
+      "position": "data2",
+      "parts": "11-25",
+      "colorArray": "000000,FFFFFF",
+      "quantity": "47",
+      "level": "1"
+    },
+    {
+      "position": "data2",
+      "parts": "12-26",
+      "colorArray": "000000,FFFFFF",
+      "quantity": "45",
+      "level": "1"
+    },
+    {
+      "position": "data2",
+      "parts": "13-27",
+      "colorArray": "000000,FFFFFF",
+      "quantity": "41",
+      "level": "1"
+    },
+    {
+      "position": "data2",
+      "parts": "14-11",
+      "colorArray": "000000,65403A,FCE5CD,FFFFFF",
+      "quantity": "14",
+      "level": "1"
+    },
+    {
+      "position": "data2",
+      "parts": "15-13",
+      "colorArray": "000000,65403A,FCE5CD,FFFFFF",
+      "quantity": "14",
+      "level": "1"
+    },
+    {
+      "position": "data2",
+      "parts": "16-15",
+      "colorArray": "000000,999999,EEEEEE,FFFFFF",
+      "quantity": "12",
+      "level": "1"
+    },
+    {
+      "position": "data2",
+      "parts": "17-8",
+      "colorArray": "000000,65403A,FCE5CD,FFFFFF",
+      "quantity": "26",
+      "level": "1"
+    },
+    {
+      "position": "data2",
+      "parts": "18-7",
+      "colorArray": "000000,0000FF,00FF00,00FFFF,9900FF,999999,FF0000,FF9FCE,FF9900,FFFF00,FFFFFF",
+      "quantity": "4",
+      "level": "1"
+    },
+    {
+      "position": "data2",
+      "parts": "19-9",
+      "colorArray": "000000,65403A,FCE5CD,FFFFFF",
+      "quantity": "26",
+      "level": "1"
+    },
+    {
+      "position": "data2",
+      "parts": "20-24",
+      "colorArray": "",
+      "quantity": "1",
+      "level": "1"
+    },
+    {
+      "position": "data2",
+      "parts": "21-10",
+      "colorArray": "000000,65403A,FCE5CD,FFFFFF",
+      "quantity": "26",
+      "level": "1"
+    },
+    {
+      "position": "data2",
+      "parts": "22-18",
+      "colorArray": "00FF0C,9BE5FF,26FFE3,35EA3A,9700FF,B654DC,C267FF,DF34E2,FF0000,FF70FB,FF934C,FFCC67,FFFF00",
+      "quantity": "2",
+      "level": "1"
+    },
+    {
+      "position": "data2",
+      "parts": "23-16",
+      "colorArray": "000000,65403A,FCE5CD,FFFFFF",
+      "quantity": "5",
+      "level": "1"
+    },
+    {
+      "position": "data2",
+      "parts": "24-17",
+      "colorArray": "000000,65403A,FCE5CD,FFFFFF",
+      "quantity": "5",
+      "level": "1"
+    },
+    {
+      "position": "data2",
+      "parts": "25-28",
+      "colorArray": "000000,666666,CCCCCC,FFFFFF",
+      "quantity": "11",
+      "level": "1"
+    },
+    {
+      "position": "data2",
+      "parts": "26-29",
+      "colorArray": "000000,666666,CCCCCC,FFFFFF",
+      "quantity": "11",
+      "level": "1"
+    },
+    {
+      "position": "data2",
+      "parts": "27-30",
+      "colorArray": "000000,FFFFFF",
+      "quantity": "5",
+      "level": "1"
+    },
+    {
+      "position": "data2",
+      "parts": "28-31",
+      "colorArray": "E06666,FFFFFF",
+      "quantity": "6",
+      "level": "1"
+    },
+    {
+      "position": "data2",
+      "parts": "29-32",
+      "colorArray": "E06666,FFFFFF",
+      "quantity": "6",
+      "level": "1"
+    },
+    {
+      "position": "data2",
+      "parts": "30-33",
+      "colorArray": "E06666,FFFFFF",
+      "quantity": "6",
+      "level": "1"
+    },
+    {
+      "position": "data2",
+      "parts": "31-22",
+      "colorArray": "000000,666666,999999,CCCCCC,FFFFFF",
+      "quantity": "24",
+      "level": "1"
+    },
+    {
+      "position": "data2",
+      "parts": "32-23",
+      "colorArray": "000000,666666,999999,CCCCCC,FFFFFF",
+      "quantity": "24",
+      "level": "1"
+    },
+    {
+      "position": "data2",
+      "parts": "33-4",
+      "colorArray": "00FF00,00FFFF,FF0000,FF00FF,FF9900,FFFF00",
+      "quantity": "1",
+      "level": "1"
+    },
+    {
+      "position": "data2",
+      "parts": "34-34",
+      "colorArray": "",
+      "quantity": "5",
+      "level": "1"
+    }
+  ],
+  "data3": [
+    {
+      "position": "data3",
+      "parts": "1-1",
+      "colorArray": "429FE2,B3FFFF,C7FFC7,CA91F4,FF0000",
+      "quantity": "2",
+      "level": "1"
+    },
+    {
+      "position": "data3",
+      "parts": "2-2",
+      "colorArray": "FFFFFF",
+      "quantity": "2",
+      "level": "1"
+    },
+    {
+      "position": "data3",
+      "parts": "3-7",
+      "colorArray": "444444,999999,B3FAB3,FFFFFF",
+      "quantity": "4",
+      "level": "1"
+    },
+    {
+      "position": "data3",
+      "parts": "4-10",
+      "colorArray": "000000,0000FF,00FF00,00FFFF,9900FF,999999,FF0000,FF00FF,FF9900,FFFF00,FFFFFF",
+      "quantity": "3",
+      "level": "1"
+    },
+    {
+      "position": "data3",
+      "parts": "5-13",
+      "colorArray": "000000,0000FF,00FF00,00FFFF,9900FF,999999,FF0000,FF00FF,FF9900,FFFF00,FFFFFF",
+      "quantity": "3",
+      "level": "1"
+    },
+    {
+      "position": "data3",
+      "parts": "6-5",
+      "colorArray": "000000,00FFFF,999999,FF0000,FFFFFF",
+      "quantity": "4",
+      "level": "1"
+    },
+    {
+      "position": "data3",
+      "parts": "7-6",
+      "colorArray": "000000,999999,FFFFFF",
+      "quantity": "4",
+      "level": "1"
+    },
+    {
+      "position": "data3",
+      "parts": "8-3",
+      "colorArray": "00FF00,87DEDE,45818E,444444,CA87FA,CCCCCC,FF0000,FFB3FF,FFFF00",
+      "quantity": "2",
+      "level": "1"
+    },
+    {
+      "position": "data3",
+      "parts": "9-4",
+      "colorArray": "00FF00,6FA8DC,9CFAFA,93C47D,9900FF,CCCCCC,FF0000,FFA4FF,FFFF00",
+      "quantity": "4",
+      "level": "1"
+    },
+    {
+      "position": "data3",
+      "parts": "10-8",
+      "colorArray": "444444,B45F06,F9CB9C,FFFFFF",
+      "quantity": "2",
+      "level": "1"
+    },
+    {
+      "position": "data3",
+      "parts": "11-9",
+      "colorArray": "",
+      "quantity": "2",
+      "level": "1"
+    },
+    {
+      "position": "data3",
+      "parts": "12-12",
+      "colorArray": "000000,0000FF,00FF00,666666,FF0000,FFFFFF",
+      "quantity": "2",
+      "level": "1"
+    },
+    {
+      "position": "data3",
+      "parts": "13-11",
+      "colorArray": "B45F06,FFFFFF",
+      "quantity": "4",
+      "level": "1"
+    }
+  ],
+  "data4": [
+    {
+      "position": "data4",
+      "parts": "1-15",
+      "colorArray": "4C1130,783F04,073763,A2A4A8,CFE2F3,D5A6BD,F3F3F3,FCE5CD",
+      "quantity": "4",
+      "level": "1"
+    },
+    {
+      "position": "data4",
+      "parts": "2-1",
+      "colorArray": "783F04,666666,EAD1DC,FFFFFF",
+      "quantity": "4",
+      "level": "1"
+    },
+    {
+      "position": "data4",
+      "parts": "3-2",
+      "colorArray": "4C1130,783F04,666666,EAD1DC,FFFFFF",
+      "quantity": "5",
+      "level": "1"
+    },
+    {
+      "position": "data4",
+      "parts": "4-6",
+      "colorArray": "0C343D,D0E0E3,D9D2E9,D9EAD3,F4CCCC,FFF2CC,FFFFFF",
+      "quantity": "2",
+      "level": "1"
+    },
+    {
+      "position": "data4",
+      "parts": "5-7",
+      "colorArray": "0C343D,D0E0E3,D9D2E9,D9EAD3,F4CCCC,FFF2CC,FFFFFF",
+      "quantity": "2",
+      "level": "1"
+    },
+    {
+      "position": "data4",
+      "parts": "6-8",
+      "colorArray": "666666,D0E0E3,D9D2E9,D9EAD3,EAD1DC,FFF2CC,FFFFFF",
+      "quantity": "4",
+      "level": "1"
+    },
+    {
+      "position": "data4",
       "parts": "7-3",
-      "colorArray": "",
-      "quantity": "144",
+      "colorArray": "0C343D,D0E0E3,D9D2E9,D9EAD3,F4CCCC,FFF2CC,FFFFFF",
+      "quantity": "10",
       "level": "1"
     },
     {
-      "position": "data1",
-      "parts": "8-8",
-      "colorArray": "",
-      "quantity": "145",
+      "position": "data4",
+      "parts": "8-4",
+      "colorArray": "0C343D,D0E0E3,D9D2E9,D9EAD3,F4CCCC,FFF2CC,FFFFFF",
+      "quantity": "4",
       "level": "1"
     },
     {
-      "position": "data1",
-      "parts": "9-9",
+      "position": "data4",
+      "parts": "9-5",
+      "colorArray": "42270C,666666,FFFFFF",
+      "quantity": "3",
+      "level": "1"
+    },
+    {
+      "position": "data4",
+      "parts": "10-9",
+      "colorArray": "666666,CFE2F3,D5A6BD,D9D2E9,D9EAD3,FFF2CC,FFFFFF",
+      "quantity": "3",
+      "level": "1"
+    },
+    {
+      "position": "data4",
+      "parts": "11-10",
+      "colorArray": "666666,CFE2F3,D5A6BD,D9EAD3,F9CB9C,FFFFFF",
+      "quantity": "3",
+      "level": "1"
+    },
+    {
+      "position": "data4",
+      "parts": "12-13",
+      "colorArray": "666666,B4895D,CFE2F3,D5A6BD,D9EAD3,FFFFFF",
+      "quantity": "2",
+      "level": "1"
+    },
+    {
+      "position": "data4",
+      "parts": "13-11",
+      "colorArray": "2D293B,E9E2FB,FFF2CC,FFFFFF",
+      "quantity": "4",
+      "level": "1"
+    },
+    {
+      "position": "data4",
+      "parts": "14-12",
       "colorArray": "",
-      "quantity": "152",
+      "quantity": "3",
+      "level": "1"
+    },
+    {
+      "position": "data4",
+      "parts": "15-14",
+      "colorArray": "FCE5CD,FFF2CC,FFFFFF",
+      "quantity": "3",
       "level": "1"
     }
   ]
